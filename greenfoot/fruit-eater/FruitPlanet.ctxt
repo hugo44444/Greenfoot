@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FruitPlanet
+comment0.text=\r\n\ My\ world\ is\ a\ new\ planet\ where\ fruits\ fall\ from\ the\ sky.\r\n\ An\ explorer\ arrives\ there\ and\ some\ animals\ live\ on\ it.\r\n\ \r\n\ @author\ Hugo\ Valera\r\n\ @version\ alfa\ 1\r\n
+comment1.params=
+comment1.target=FruitPlanet()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FruitPlanet.\r\n\ \r\n
+numComments=2
