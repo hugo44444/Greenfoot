@@ -1,0 +1,36 @@
+Greenfoot run started: Fri Nov 13 11:31:15 CET 2026
+Greenfoot version: 3.9.0
+Build ID: 6c1390e0
+Java version 21.0.4
+JavaFX version 21.0.3+2
+Virtual machine: OpenJDK 64-Bit Server VM 21.0.4+7-LTS (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Opening project: C:\Users\hugo\starwar
+1794565976775: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.io.FileNotFoundException while reading import cache: C:\Users\hugo\greenfoot\import-cache.xml (El sistema no puede encontrar el archivo especificado)
+Opening project: C:\Users\hugo\fruit-eater
+1794566059833: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.io.FileNotFoundException while reading import cache: C:\Users\hugo\greenfoot\import-cache.xml (El sistema no puede encontrar el archivo especificado)
+====
+
+====
+Greenfoot run started: Thu Nov 19 09:10:49 CET 2026
+Greenfoot version: 3.9.0
+Build ID: 6c1390e0
+Java version 21.0.4
+JavaFX version 21.0.3+2
+Virtual machine: OpenJDK 64-Bit Server VM 21.0.4+7-LTS (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Opening project: C:\Users\hugo\fruit-eater
+1795075878911: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.io.FileNotFoundException while reading import cache: C:\Users\hugo\greenfoot\import-cache.xml (El sistema no puede encontrar el archivo especificado)
